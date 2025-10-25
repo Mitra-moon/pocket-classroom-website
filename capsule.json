@@ -1,0 +1,29 @@
+{
+  "schema": "pocket-classroom/v1",
+  "id": "capsule-1a2b3c",
+  "meta": {
+    "title": "Photosynthesis basics",
+    "subject": "Biology",
+    "level": "Beginner",
+    "description": "Short notes about photosynthesis"
+  },
+  "notes": [
+    "Photosynthesis converts light energy to chemical energy.",
+    "Occurs in chloroplasts."
+  ],
+  "flashcards": [
+    { "front": "Where does photosynthesis occur?", "back": "Chloroplasts" },
+    { "front": "Main pigment?", "back": "Chlorophyll" }
+  ],
+  "quiz": [
+    {
+      "question": "Photosynthesis produces which gas?",
+      "choices": ["CO2", "O2", "N2", "H2O"],
+      "answerIndex": 1,
+      "explanation": "Plants release oxygen during the light reactions."
+    }
+  ],
+  "createdAt": "2025-10-20T12:34:00.000Z",
+  "updatedAt": "2025-10-21T09:20:00.000Z",
+  "metaExtra": {}
+}
